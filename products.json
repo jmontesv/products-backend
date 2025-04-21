@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Pro 15",
+        "descripcion": "Potente laptop con pantalla de 15 pulgadas y procesador i7.",
+        "categoria": "Electrónica",
+        "precio": 1200.00
+    },
+    {
+        "id": 2,
+        "nombre": "Smartphone X",
+        "descripcion": "Teléfono inteligente con cámara de 108MP y batería de larga duración.",
+        "categoria": "Electrónica",
+        "precio": 850.00
+    },
+    {
+        "id": 3,
+        "nombre": "Silla Ergonómica",
+        "descripcion": "Silla cómoda para oficina con soporte lumbar.",
+        "categoria": "Muebles",
+        "precio": 220.00
+    },
+    {
+        "id": 4,
+        "nombre": "Escritorio de Madera",
+        "descripcion": "Escritorio espacioso hecho de roble natural.",
+        "categoria": "Muebles",
+        "precio": 450.00
+    },
+    {
+        "id": 5,
+        "nombre": "Audífonos Inalámbricos",
+        "descripcion": "Audífonos Bluetooth con cancelación de ruido.",
+        "categoria": "Electrónica",
+        "precio": 180.00
+    },
+    {
+        "id": 6,
+        "nombre": "Lámpara LED de Escritorio",
+        "descripcion": "Lámpara ajustable con luz blanca cálida y fría.",
+        "categoria": "Iluminación",
+        "precio": 45.00
+    },
+    {
+        "id": 7,
+        "nombre": "Tablet 10\"",
+        "descripcion": "Tablet ideal para navegación y multimedia.",
+        "categoria": "Electrónica",
+        "precio": 300.00
+    },
+    {
+        "id": 8,
+        "nombre": "Cafetera Automática",
+        "descripcion": "Cafetera con temporizador y molinillo integrado.",
+        "categoria": "Electrodomésticos",
+        "precio": 130.00
+    },
+    {
+        "id": 9,
+        "nombre": "Mochila Antirrobo",
+        "descripcion": "Mochila moderna con puerto USB y cierres ocultos.",
+        "categoria": "Accesorios",
+        "precio": 65.00
+    },
+    {
+        "id": 10,
+        "nombre": "Monitor 24\"",
+        "descripcion": "Monitor Full HD con tecnología IPS.",
+        "categoria": "Electrónica",
+        "precio": 210.00
+    },
+    {
+        "id": 11,
+        "nombre": "Router WiFi 6",
+        "descripcion": "Router con tecnología de última generación.",
+        "categoria": "Electrónica",
+        "precio": 130.0
+      },
+      {
+        "id": 12,
+        "nombre": "Tablet 10\"",
+        "descripcion": "Tablet con Android 12 y pantalla Full HD.",
+        "categoria": "Electrónica",
+        "precio": 250.0
+      },
+      {
+        "id": 13,
+        "nombre": "Cargador Rápido USB-C",
+        "descripcion": "Carga rápida para dispositivos compatibles.",
+        "categoria": "Accesorios",
+        "precio": 25.0
+      },
+      {
+        "id": 14,
+        "nombre": "Disco Duro Externo 1TB",
+        "descripcion": "Almacenamiento portátil y confiable.",
+        "categoria": "Almacenamiento",
+        "precio": 90.0
+      },
+      {
+        "id": 15,
+        "nombre": "Soporte para Laptop",
+        "descripcion": "Base ajustable para portátiles hasta 17\".",
+        "categoria": "Accesorios",
+        "precio": 40.0
+      },
+      {
+        "id": 16,
+        "nombre": "Smartwatch Fitness",
+        "descripcion": "Reloj inteligente con monitor de frecuencia cardíaca.",
+        "categoria": "Tecnología",
+        "precio": 110.0
+      },
+      {
+        "id": 17,
+        "nombre": "Impresora Multifuncional",
+        "descripcion": "Impresión, escaneo y copiado en un solo equipo.",
+        "categoria": "Electrónica",
+        "precio": 160.0
+      },
+      {
+        "id": 18,
+        "nombre": "Altavoces Bluetooth",
+        "descripcion": "Sonido estéreo portátil y potente.",
+        "categoria": "Audio",
+        "precio": 70.0
+      },
+      {
+        "id": 19,
+        "nombre": "Ventilador USB",
+        "descripcion": "Ventilador de escritorio silencioso.",
+        "categoria": "Accesorios",
+        "precio": 20.0
+      },
+      {
+        "id": 20,
+        "nombre": "Lector de Tarjetas SD",
+        "descripcion": "Lector USB compatible con SD y microSD.",
+        "categoria": "Accesorios",
+        "precio": 15.0
+      },
+      {
+        "id": 21,
+        "nombre": "Cámara de Seguridad WiFi",
+        "descripcion": "Vigilancia inteligente desde el móvil.",
+        "categoria": "Seguridad",
+        "precio": 140.0
+      },
+      {
+        "id": 22,
+        "nombre": "Proyector Portátil",
+        "descripcion": "Cine en casa con conexión HDMI y USB.",
+        "categoria": "Electrónica",
+        "precio": 220.0
+      },
+      {
+        "id": 23,
+        "nombre": "Luces LED Decorativas",
+        "descripcion": "Tira LED para ambientar espacios.",
+        "categoria": "Iluminación",
+        "precio": 35.0
+      },
+      {
+        "id": 24,
+        "nombre": "Hub USB 4 Puertos",
+        "descripcion": "Expansor de puertos USB 3.0.",
+        "categoria": "Accesorios",
+        "precio": 30.0
+      },
+      {
+        "id": 25,
+        "nombre": "Batería Portátil 20000mAh",
+        "descripcion": "Carga rápida para múltiples dispositivos.",
+        "categoria": "Accesorios",
+        "precio": 55.0
+      },
+      {
+        "id": 26,
+        "nombre": "Cámara Reflex Digital",
+        "descripcion": "Fotografía profesional con sensor CMOS.",
+        "categoria": "Fotografía",
+        "precio": 900.0
+      },
+      {
+        "id": 27,
+        "nombre": "Luces de Estudio",
+        "descripcion": "Kit completo para iluminación fotográfica.",
+        "categoria": "Fotografía",
+        "precio": 130.0
+      },
+      {
+        "id": 28,
+        "nombre": "Repetidor WiFi",
+        "descripcion": "Mejora la cobertura de tu red inalámbrica.",
+        "categoria": "Electrónica",
+        "precio": 50.0
+      },
+      {
+        "id": 29,
+        "nombre": "Micrófono Profesional",
+        "descripcion": "Grabación clara y sin ruidos.",
+        "categoria": "Audio",
+        "precio": 75.0
+      },
+      {
+        "id": 30,
+        "nombre": "Silla Gamer",
+        "descripcion": "Diseño ergonómico para largas sesiones.",
+        "categoria": "Muebles",
+        "precio": 280.0
+      },
+      {
+        "id": 31,
+        "nombre": "Taza con Calentador USB",
+        "descripcion": "Mantén tu bebida caliente en el escritorio.",
+        "categoria": "Accesorios",
+        "precio": 25.0
+      },
+      {
+        "id": 32,
+        "nombre": "Foco Inteligente",
+        "descripcion": "Control desde el móvil y compatible con Alexa.",
+        "categoria": "Iluminación",
+        "precio": 28.0
+      },
+      {
+        "id": 33,
+        "nombre": "Alfombrilla RGB",
+        "descripcion": "Alfombrilla para mouse con iluminación.",
+        "categoria": "Accesorios",
+        "precio": 18.0
+      },
+      {
+        "id": 34,
+        "nombre": "Organizador de Cables",
+        "descripcion": "Evita enredos con este sistema magnético.",
+        "categoria": "Accesorios",
+        "precio": 10.0
+      },
+      {
+        "id": 35,
+        "nombre": "Switch HDMI",
+        "descripcion": "Conecta 3 dispositivos a un solo puerto.",
+        "categoria": "Accesorios",
+        "precio": 22.0
+      },
+      {
+        "id": 36,
+        "nombre": "Mini Refrigerador USB",
+        "descripcion": "Enfría una bebida mientras trabajas.",
+        "categoria": "Accesorios",
+        "precio": 45.0
+      },
+      {
+        "id": 37,
+        "nombre": "Cámara Deportiva 4K",
+        "descripcion": "Ideal para grabar tus aventuras.",
+        "categoria": "Fotografía",
+        "precio": 180.0
+      },
+      {
+        "id": 38,
+        "nombre": "Estabilizador de Smartphone",
+        "descripcion": "Videos más fluidos y profesionales.",
+        "categoria": "Accesorios",
+        "precio": 85.0
+      },
+      {
+        "id": 39,
+        "nombre": "Kit de Limpieza para PC",
+        "descripcion": "Incluye cepillos, paños y aire comprimido.",
+        "categoria": "Accesorios",
+        "precio": 20.0
+      },
+      {
+        "id": 40,
+        "nombre": "Enchufe Inteligente",
+        "descripcion": "Controla tus dispositivos desde el móvil.",
+        "categoria": "Electrónica",
+        "precio": 32.0
+      }
+]
