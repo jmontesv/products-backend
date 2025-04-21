@@ -26,9 +26,9 @@ Corre la aplicación:
 python app.py
 ```
 
-Abre en tu navegador: http://localhost:5173
+Abre en tu navegador: http://localhost:5000
 
-# 📋 Endpoints de la API
+## 📋 Endpoints de la API
 GET /products
 Parámetros de consulta (query params):
 - name → filtra por nombre (string)
